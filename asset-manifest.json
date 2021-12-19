@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/anecdotesapp/static/js/main.31dc2b1f.js",
+    "index.html": "/anecdotesapp/index.html",
+    "main.31dc2b1f.js.map": "/anecdotesapp/static/js/main.31dc2b1f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.31dc2b1f.js"
+  ]
+}
